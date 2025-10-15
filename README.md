@@ -18,7 +18,7 @@ Create a new database and copy everything in the folder "baza i admin login" fil
 ```
 
 You can access to your Admin Game panel http(s)://yourip/gamepanel/admin/index.php or http(s)://yourip/admin/index.php
-```
+```bash
 Login: admin
 pass: admin321
 ```
