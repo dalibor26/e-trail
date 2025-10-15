@@ -5,7 +5,7 @@
 ##### Tested on
 [![Ubuntu](https://user-images.githubusercontent.com/12951085/139538206-833d8d33-0d1b-4d51-8ec8-86e5cf14f82e.png)](https://www.ubuntu.com)
 
-This script work only on Clean Ubuntu 14.04 LTS / 16.04 LTS
+Ubuntu 14.04 LTS / 16.04 LTS
 
 Version PHP5
 
