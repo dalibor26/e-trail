@@ -19,7 +19,10 @@ Download the etrail file and copy everything in that file to your web server.
 
 
 Create a new database and copy everything in the folder "baza i admin login" file "baza" to your newly created database
+
 [baza i admin login/baza.sql](https://github.com/dalibor26/e-trail/blob/be3512060dac3e4dbdd5c0f881a260e645c276da/baza%20i%20admin%20login/baza.sql)
+
+
 
 
 You can access to your Admin Game panel http(s)://yourip/gamepanel/admin/index.php or http(s)://yourip/admin/index.php
