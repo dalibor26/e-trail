@@ -22,3 +22,5 @@ You can access to your Admin Game panel http(s)://yourip/gamepanel/admin/index.p
 Login: admin
 pass: admin321
 ```
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/daliborDE)  You can make one-time donations via PayPal.
